@@ -15,9 +15,9 @@
 
 ![snake animation](https://github.com/dirt710/dirt710/blob/output/github-contribution-grid-snake2.svg)
   
-<img src="https://i.pinimg.com/originals/78/4e/43/784e43d7b7f90f9609e5b160cd61535e.gif" width="150">
+<img src="https://i.pinimg.com/originals/78/4e/43/784e43d7b7f90f9609e5b160cd61535e.gif" width="150" height="200">
 <img src="https://c.tenor.com/gUZ8sJXn19YAAAAC/cat-girl-ears-ear.gif">
-<img src="https://i.pinimg.com/originals/78/4e/43/784e43d7b7f90f9609e5b160cd61535e.gif" width="150">
+<img src="https://i.pinimg.com/originals/78/4e/43/784e43d7b7f90f9609e5b160cd61535e.gif" width="150" height="200">
 
 <br><br>
 
