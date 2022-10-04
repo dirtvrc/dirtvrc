@@ -3,6 +3,7 @@
 <img src="https://i.giphy.com/media/VRyXxZqRXmbk7NNBnN/giphy.webp" width="250">
 <img src="https://i.ibb.co/myBhpr0/Vanilla-4-5s-280px.gif">
 <img src="https://i.giphy.com/media/VRyXxZqRXmbk7NNBnN/giphy.webp" width="250">
+
 <br><br>
 
 <div align="center">
@@ -15,6 +16,8 @@
 ![snake animation](https://github.com/dirt710/dirt710/blob/output/github-contribution-grid-snake2.svg)
   
 <img src="https://c.tenor.com/gUZ8sJXn19YAAAAC/cat-girl-ears-ear.gif">
+
+<br><br>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
