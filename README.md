@@ -12,5 +12,7 @@
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/dirt710/)
 [![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://etherscan.io/address/0x779d27b27d945f786caf5fe295145335fc771edb)
 
+<img src="https://c.tenor.com/gUZ8sJXn19YAAAAC/cat-girl-ears-ear.gif">
+
 
 ![snake animation](https://github.com/dirt710/dirt710/blob/output/github-contribution-grid-snake2.svg)
