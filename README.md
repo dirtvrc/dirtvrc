@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://i.giphy.com/media/VRyXxZqRXmbk7NNBnN/giphy.webp">
+<img src="https://i.giphy.com/media/VRyXxZqRXmbk7NNBnN/giphy.webp" width="25">
 <img src="https://i.pinimg.com/originals/3a/48/43/3a48430a3db31af13396487f9dd49d25.gif"><br><br>\
-<img src="https://i.giphy.com/media/VRyXxZqRXmbk7NNBnN/giphy.webp">
+<img src="https://i.giphy.com/media/VRyXxZqRXmbk7NNBnN/giphy.webp" width="25">
 
 <div align="center">
 
