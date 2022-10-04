@@ -15,9 +15,9 @@
 
 ![snake animation](https://github.com/dirt710/dirt710/blob/output/github-contribution-grid-snake2.svg)
   
-<img src="https://i.imgur.com/K2AoZG0.gif" width="200">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e4a8b98a-5148-4238-80c6-91a0c883ce9d/d9g5kll-e14f2718-3aa0-4774-9ec0-a5060768d488.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U0YThiOThhLTUxNDgtNDIzOC04MGM2LTkxYTBjODgzY2U5ZFwvZDlnNWtsbC1lMTRmMjcxOC0zYWEwLTQ3NzQtOWVjMC1hNTA2MDc2OGQ0ODguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RXThpP5Miv28Epw6yI7rb1QUIlXNx0bngQRtvRZsWxw" width="200">
 <img src="https://c.tenor.com/gUZ8sJXn19YAAAAC/cat-girl-ears-ear.gif">
-<img src="https://i.imgur.com/K2AoZG0.gif" width="200">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e4a8b98a-5148-4238-80c6-91a0c883ce9d/d9g5kll-e14f2718-3aa0-4774-9ec0-a5060768d488.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U0YThiOThhLTUxNDgtNDIzOC04MGM2LTkxYTBjODgzY2U5ZFwvZDlnNWtsbC1lMTRmMjcxOC0zYWEwLTQ3NzQtOWVjMC1hNTA2MDc2OGQ0ODguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RXThpP5Miv28Epw6yI7rb1QUIlXNx0bngQRtvRZsWxw" width="200">
 
 <br><br>
 
