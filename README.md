@@ -2,7 +2,7 @@
 
 <img src="https://i.giphy.com/media/VRyXxZqRXmbk7NNBnN/giphy.webp" width="250">
 <img src="https://i.ibb.co/myBhpr0/Vanilla-4-5s-280px.gif">
-<img src="https://i.giphy.com/media/VRyXxZqRXmbk7NNBnN/giphy.webp" width="250">
+<img src="https://i.ibb.co/9yRYyrM/ezgif-5-a1ae8f9987.webp" width="250">
 
 <br><br>
 
@@ -17,7 +17,7 @@
   
 <img src="https://i.pinimg.com/originals/49/6c/f5/496cf59cb7144e64c3e2e3efb958c6fa.gif" width="150" height="250">
 <img src="https://c.tenor.com/gUZ8sJXn19YAAAAC/cat-girl-ears-ear.gif">
-<img src="https://i.pinimg.com/originals/49/6c/f5/496cf59cb7144e64c3e2e3efb958c6fa.gif" width="150" height="250">
+<img src="https://i.ibb.co/GCy88Ch/ezgif-5-0b03d41793.gif" width="150" height="250">
 
 <br><br>
 
