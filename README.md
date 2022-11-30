@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://i.giphy.com/media/VRyXxZqRXmbk7NNBnN/giphy.webp" width="250">
-<img src="https://i.ibb.co/0ydQjqy/gitdirt.png">
+<img src="https://i.ibb.co/0CD47tZ/gitdirt-1.png">
 <img src="https://i.ibb.co/9yRYyrM/ezgif-5-a1ae8f9987.webp" width="250">
 
 <br><br>
