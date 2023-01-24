@@ -21,11 +21,11 @@
 
 <br><br>
 
-![C#](https://img.shields.io/badge/-C%23-9cf?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-9cf?style=for-the-badge&logo=c-sharp&logoColor=black)
 ![C++](https://img.shields.io/badge/-C%2B%2B-ff69b4?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&logo=python&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-9cf?style=for-the-badge&logo=CSS3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-9cf?style=for-the-badge&logo=CSS3&logoColor=black)
 ![JS](https://img.shields.io/badge/-JS-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
 
 <br><br>
