@@ -19,7 +19,7 @@
 <img src="https://c.tenor.com/gUZ8sJXn19YAAAAC/cat-girl-ears-ear.gif">
 <img src="https://i.ibb.co/GCy88Ch/ezgif-5-0b03d41793.gif" width="150" height="250">
 
-<br>
+<br><br>
 
 ![C#](https://img.shields.io/badge/-C%23-9cf?style=for-the-badge&logo=c-sharp&logoColor=black)
 ![C++](https://img.shields.io/badge/-C%2B%2B-ff69b4?style=for-the-badge&logo=cplusplus&logoColor=white)
