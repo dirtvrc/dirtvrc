@@ -4,9 +4,7 @@
 
 <br>
   
-<img src="https://i.pinimg.com/originals/49/6c/f5/496cf59cb7144e64c3e2e3efb958c6fa.gif" width="150" height="250">
 <img src="https://c.tenor.com/gUZ8sJXn19YAAAAC/cat-girl-ears-ear.gif">
-<img src="https://i.ibb.co/GCy88Ch/ezgif-5-0b03d41793.gif" width="150" height="250">
 
 <br><br>
 
