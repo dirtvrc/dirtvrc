@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="https://i.giphy.com/media/VRyXxZqRXmbk7NNBnN/giphy.webp" width="250">
-<img src="https://i.ibb.co/0CD47tZ/gitdirt-1.png">
-<img src="https://i.ibb.co/9yRYyrM/ezgif-5-a1ae8f9987.webp" width="250">
-
-<br><br>
-
-<div align="center">
-
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dirt.pet)
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eden.fyi)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JXmaSjt9Gv)
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/dirtnft/)
+[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/azeriaswife/)
 
 <br>
   
