@@ -22,4 +22,4 @@
 <br>
 
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_9_7950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA-RTX5090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
