@@ -1,8 +1,4 @@
 <div align="center">
-
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eden.fyi)
-
-<br>
   
 <img src="https://c.tenor.com/gUZ8sJXn19YAAAAC/cat-girl-ears-ear.gif">
 
